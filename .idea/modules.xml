@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/evolution-of-complexity.iml" filepath="$PROJECT_DIR$/evolution-of-complexity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Genetic Algorithm on Weasel.iml" filepath="$PROJECT_DIR$/Genetic Algorithm on Weasel.iml" />
     </modules>
   </component>
 </project>
